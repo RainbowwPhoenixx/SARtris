@@ -20,6 +20,7 @@ Video demonstration: COMING SOON
 ## Features
 - Hide and display SARtris at will without affecting the hud or toasts
 - No gravity
+- Legal in portal 2 runs
 - Cool UI
 - Open source
 - Created using the SAR game engine
@@ -32,4 +33,5 @@ Video demonstration: COMING SOON
 
 ## Known issues
 - Makes portal 2 stop for a split second when updating the UI. Improvements may come
+- Some pieces can override the border color at the top
 
