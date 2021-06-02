@@ -1,14 +1,16 @@
 # SARtris
 
 Route credit: AMJ
+
 This is a dumb project, but I'm glad it ended up working.
 After the introduction of svar arithmetic and svar substitution in sar functions, it has become possible to implement games in the sar hud or the console. This is modern tetris.
 
 You need to be on master SAR for this to work. It DOES NOT work on SAR 1.12.3, but will most likely work on 1.12.4-pre1.
 REMINDER: Don't do runs on master SAR.
 
-AMJ's classic tetris: NOT YET
-Video demonstration: COMING SOON
+Some links:
+- AMJ's classic tetris: NOT YET
+- Video demonstration: https://www.youtube.com/watch?v=saZclsoA1XE
 
 ## Setting up
 
@@ -18,8 +20,8 @@ Video demonstration: COMING SOON
 - Run `exec tetris/tetris` in the console to run SARtris ! Do NOT run this twice ! It will make the game forget your HUD/toasts parameters. Bind the premade reset and hide commands in the controls config.
 
 ## Features
-- Hide and display SARtris at will without affecting the hud or toasts
-- No gravity
+- Hide and display SARtris at will without affecting the hud or toasts (if you have some sar_hud_text set already, it will look weird but should reset fine)
+- Togglable gravity gravity
 - Legal in portal 2 runs
 - Cool UI
 - Open source
