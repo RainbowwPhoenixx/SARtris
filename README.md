@@ -16,12 +16,12 @@ Some links:
 
 - Put the tetris folder such that you have `cfg/tetris/tetris.cfg` `cfg/tetris/display.cfg`, etc
 - Set your binds in the `tetris/controls.cfg` file (do not override other binds)
-- Optionally modify the coordinates at which the tetris board appears and more in `tetris/settings.cfg`
-- Run `exec tetris/tetris` in the console to run SARtris ! Do NOT run this twice ! It will make the game forget your HUD/toasts parameters. Bind the premade reset and hide commands in the controls config.
+- Optionally modify the coordinates at which the tetris board appears, and more in `tetris/settings.cfg`
+- Run `exec tetris/tetris` in the console to run SARtris ! Do NOT run this twice ! It will make the game forget your normal HUD/toasts parameters. Bind the premade reset and hide commands in the controls config.
 
 ## Features
 - Hide and display SARtris at will without affecting the hud or toasts (if you have some sar_hud_text set already, it will look weird but should reset fine)
-- Togglable gravity gravity
+- Togglable gravity
 - Legal in portal 2 runs
 - Cool UI
 - Open source
@@ -34,6 +34,6 @@ Some links:
 - Maybe loss detection
 
 ## Known issues
-- Makes portal 2 stop for a split second when updating the UI. Improvements may come
-- Some pieces can override the border color at the top
+- Display responsiveness (Necessary to spread out the lag)
+- Small lagspikes (really really tiny ones, I promise)
 
