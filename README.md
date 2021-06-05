@@ -22,14 +22,13 @@ Some links:
 ## Features
 - Hide and display SARtris at will without affecting the hud or toasts (if you have some sar_hud_text set already, it will look weird but should reset fine)
 - Togglable gravity
-- 7-bag
+- 7-bag, SRS
 - Legal in portal 2 runs
 - Cool UI
 - Open source
 - Created using the SAR game engine
 
 ## Upcoming features
-- SRS
 - hold
 - Maybe loss detection
 
