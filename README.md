@@ -13,6 +13,7 @@ Some links:
 
 ## Setting up
 
+- Download the configs by clicking the green "Code" button, then "Download zip"
 - Put the tetris folder such that you have `cfg/tetris/tetris.cfg` `cfg/tetris/display.cfg`, etc
 - Set your binds in the `tetris/controls.cfg` file (do not override other binds)
 - Optionally modify the coordinates at which the tetris board appears, and more in `tetris/settings.cfg`
@@ -27,10 +28,10 @@ Some links:
 - Open source
 - Created using the SAR game engine
 
-## Upcoming features
+## Upcoming features (open to PRs :eyes:)
 - Maybe loss detection
+- Previews
 
 ## Known issues
 - Display responsiveness (Necessary to spread out the lag)
-- Small lagspikes (really really tiny ones, I promise)
-
+- Can cause small lagspikes depending on specs
