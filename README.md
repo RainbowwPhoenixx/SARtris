@@ -16,7 +16,7 @@ Some links:
 - Put the tetris folder such that you have `cfg/tetris/tetris.cfg` `cfg/tetris/display.cfg`, etc
 - Set your binds in the `tetris/controls.cfg` file (do not override other binds)
 - Optionally modify the coordinates at which the tetris board appears, and more in `tetris/settings.cfg`
-- Run `exec tetris/tetris` in the console to run SARtris ! Do NOT run this twice ! It will make the game forget your normal HUD/toasts parameters. Bind the premade reset and hide commands in the controls config.
+- Run `exec tetris/tetris` in the console to run SARtris! Running this twice may cause issues. 
 
 ## Features
 - Hide and display SARtris at will without affecting the hud or toasts (if you have some sar_hud_text set already, it will look weird but should reset fine)
