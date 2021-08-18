@@ -5,7 +5,7 @@ Route credit: AMJ
 This is a dumb project, but I'm glad it ended up working.
 After the introduction of svar arithmetic and svar substitution in sar functions, it has become possible to implement games in the sar hud or the console. This is modern tetris.
 
-You need to be on SAR 1.12.4-pre1 and up for this to work.
+You need to be on SAR 1.12.4 and up for this to work.
 
 Some links:
 - AMJ's classic tetris: NOT DONE YET
